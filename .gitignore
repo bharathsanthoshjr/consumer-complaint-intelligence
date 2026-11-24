@@ -1,4 +1,5 @@
-# Data files: large and re-downloadable, never commit data/
+# Data files: large and re-downloadable, never commit
+data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
